@@ -1,6 +1,6 @@
 # rates-service Fabrizio Granieri
 
-###################   HOW TO CONFIGURE THE APPLICATION   ###################
+#   HOW TO CONFIGURE THE APPLICATION   ###################
 
 # Maven build
 
@@ -24,7 +24,7 @@
 	<property name="password" value="" />
 </bean>
 
-###################   HOW TO USE THE APPLICATION   		 ###################
+#   HOW TO USE THE APPLICATION   		 ###################
 
 Use the Chrome Rest Client to make the following requests
 
@@ -76,7 +76,7 @@ Content-Type: application/json
 }
 
 
-###################   JAVA CLASSES   		 ###################
+#   JAVA CLASSES   		 ###################
 
 
 
